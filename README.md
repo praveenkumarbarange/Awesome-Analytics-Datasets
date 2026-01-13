@@ -20,7 +20,7 @@ To make analytics accessible by providing open, practical resources that student
 - Community learning
 
 ## 🔗 Related Resources
-- [Analytics with Praveen](https://www.youtube.com/@analyticswithpraveen)
+- [Analytics with Praveen](https://www.youtube.com/@datanalyticswithpraveen)
 
 ## 🤝 Contributing
 We welcome contributions! If you have a dataset, resource, or guide that could help students, feel free to open a pull request.
