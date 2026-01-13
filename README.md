@@ -1,9 +1,8 @@
 # Awesome-Analytics-Datasets
+Welcome to **Awesome-Analytics-Datasets** 🎓  
+
 “Curated open datasets and resources for students, learners, and aspiring data analysts.”
 
-# Awesome-Analytics-Datasets / Datasets
-
-Welcome to **Awesome-Analytics-Datasets** 🎓  
 This repository is a curated collection of datasets, tools, and resources designed to help students, learners, and aspiring data analysts practice, explore, and grow their skills.
 
 ## 📚 Contents
